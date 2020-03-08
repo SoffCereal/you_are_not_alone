@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835857465456",
+    "firebase_url": "https://you-re-not-alone-880b9.firebaseio.com",
+    "project_id": "you-re-not-alone-880b9",
+    "storage_bucket": "you-re-not-alone-880b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835857465456:android:a20eccc715c0e95494b4b5",
+        "android_client_info": {
+          "package_name": "com.example.you_are_not_alone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835857465456-89gl4fsq6cbm0t16rt7por8qn7al5pb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALuutvzfN5_EWgJ55jJHYwse2T47uld5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835857465456-89gl4fsq6cbm0t16rt7por8qn7al5pb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
